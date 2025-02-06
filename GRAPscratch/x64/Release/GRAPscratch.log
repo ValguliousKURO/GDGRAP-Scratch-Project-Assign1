@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(39,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(43,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(47,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(51,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(55,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(59,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(82,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(83,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(87,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(88,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(112,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(112,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(362,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  23 of 1981 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GRAPscratch.vcxproj -> C:\Users\arvin_erhabdl\Source\Repos\GDGRAP-Scratch-Project-Assign1\x64\Release\GRAPscratch.exe

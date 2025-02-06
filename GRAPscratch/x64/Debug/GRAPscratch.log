@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(39,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(43,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(47,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(51,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(55,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(59,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(82,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(83,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(87,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(88,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(112,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(112,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arvin_erhabdl\source\repos\GDGRAP-Scratch-Project-Assign1\GRAPscratch\main.cpp(362,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GRAPscratch.vcxproj -> C:\Users\arvin_erhabdl\Source\Repos\GDGRAP-Scratch-Project-Assign1\x64\Debug\GRAPscratch.exe
